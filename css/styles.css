@@ -11705,9 +11705,9 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .team-member img {
-  width: 27rem;
-  height: 27rem;
-  border: 0.5rem solid rgba(0, 0, 0, 0.4);
+  width: 23rem;
+  height: 23rem;
+  border: 0.3rem solid rgba(0, 0, 0, 0.4);
 }
 .team-member h4, .team-member .h4 {
   margin-top: 1.5rem;
